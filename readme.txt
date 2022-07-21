@@ -1,0 +1,2 @@
+- change config parameters
+- change RewriteBase in .htaccess to yourFolder/public
